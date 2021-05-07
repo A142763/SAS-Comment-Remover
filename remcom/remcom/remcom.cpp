@@ -1,5 +1,5 @@
 // REMCOM
-// James Melendez
+// Jimmy James
 // This program strips all comments from SAS Programs
 
 #include "pch.h"
