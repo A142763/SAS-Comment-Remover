@@ -2,8 +2,10 @@
 
 **Because sometimes you just want the code without the chatter.**
 
-`REMCOM` is a command-line utility that strips all comments from SAS programs, leaving you with nothing but pure, unadulterated SAS code.
-Whether you’re preparing production code, cleaning up legacy scripts, or just allergic to asterisks, this tool has you covered.
+SAS Comment Remover – Clean SAS Code in Seconds
+The SAS Comment Remover is a lightweight, blazing-fast C++ command-line utility (REMCOM) designed to strip every type of comment from your SAS programs — including inline comments, macro comments, and block comments.
+Whether you’re preparing SAS code for production, scrubbing years of legacy SAS scripts, or simply allergic to stray asterisks and slashes, the SAS Comment Remover leaves you with nothing but pure, uncompromised SAS code.
+Built for speed and accuracy, the SAS Comment Remover ensures your SAS files are clean, consistent, and ready for analysis or deployment.
 
 ---
 
