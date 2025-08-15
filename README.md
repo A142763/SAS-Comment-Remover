@@ -94,7 +94,3 @@ Licensed under the MIT License.
 **Jimmy James**
 
 > “I’m not against comments… I just think code should speak for itself.”
-
----
-
-If you want, I can also make you a **matching fun ASCII banner** for this README so it stands out on GitHub without looking unprofessional. Would you like me to create that?
